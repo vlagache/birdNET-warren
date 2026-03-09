@@ -1,0 +1,8 @@
+.venv/
+.claude/
+.vscode/
+__pycache__/
+*.pyc
+
+detect_birds/input/
+detect_birds/output/

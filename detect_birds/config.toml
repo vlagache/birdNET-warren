@@ -1,0 +1,14 @@
+[Inference]
+slist = "species_list.txt"   # décommenter pour filtrer sur une liste d'espèces (sinon lat/lon utilisés)
+min_conf = 0.6
+overlap = 1.5
+merge_consecutive = 5
+
+[Output]
+rtype = ["csv"]
+
+[Locale]
+locale = "fr"
+week = -1
+lat = 44.837
+lon = -0.579
